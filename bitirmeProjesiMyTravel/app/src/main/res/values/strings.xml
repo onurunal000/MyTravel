@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">bitirmeProjesiMyTravel</string>
+    <string name="email">E-Mail :</string>
+    <string name="password">Password :</string>
+    <string name="name">Name :</string>
+    <string name="surname">Surname :</string>
+    <string name="uyeol">Üye Ol</string>
+    <string name="kullaniciad">Kullanıcı Adı</string>
+    <string name="sifre">Şifre</string>
+    <string name="giris">Giriş</string>
+    <string name="girisyap">GİRİŞ YAP</string>
+    <string name="uyeolll">ÜYE OL</string>
+    <string name="onurunal">Onur Ünal</string>
+    <string name="_70">70</string>
+</resources>

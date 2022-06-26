@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235257321899",
+    "project_id": "bitirmeprojesimytravel",
+    "storage_bucket": "bitirmeprojesimytravel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235257321899:android:69006b313b63a09cabdaee",
+        "android_client_info": {
+          "package_name": "com.example.bitirmeprojesimytravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235257321899-2cj59ou8ib06pnpjrm2fhcue9lek6qmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7fYSPcSuUGxW7PRuBSWKJunphokvYVOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235257321899-2cj59ou8ib06pnpjrm2fhcue9lek6qmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

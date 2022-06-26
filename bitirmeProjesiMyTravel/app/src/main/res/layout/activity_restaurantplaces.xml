@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".restaurantplaces">
+
+    <ImageView
+        android:id="@+id/imageView14"
+        android:layout_width="474dp"
+        android:layout_height="798dp"
+        android:layout_marginBottom="15dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/turkishcuisinebg" />
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_marginTop="280dp"
+        android:layout_marginEnd="201dp"
+        android:layout_marginBottom="269dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView14"
+        app:layout_constraintEnd_toEndOf="@+id/imageView14"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/imageView14"
+        app:srcCompat="@drawable/turksihcuisinebtn1" />
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_marginStart="205dp"
+        android:layout_marginTop="279dp"
+        android:layout_marginBottom="268dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView14"
+        app:layout_constraintStart_toStartOf="@+id/imageView14"
+        app:layout_constraintTop_toTopOf="@+id/imageView14"
+        app:srcCompat="@drawable/turksihcuisinebtn2" />
+</androidx.constraintlayout.widget.ConstraintLayout>
